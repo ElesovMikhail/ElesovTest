@@ -512,5 +512,5 @@ class HotelManagementApp:
 Рисунок 8. Главное окно. Вкладка "Номера"
 ![Рисунок 9. Главное окно. Вкладка "Уборка"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui6.png)
 Рисунок 9. Главное окно. Вкладка "Уборка"
-![Рисунок 10. Главное окно. Пример диалогового окна](https://github.com/ElesovMikhail/ElesovTest/blob/main/диалоговое окно.png)
+![Рисунок 10. Главное окно. Пример диалогового окна](https://github.com/ElesovMikhail/ElesovTest/blob/main/диалоговоеокно.png)
 Рисунок 10. Главное окно. Пример диалогового окна
