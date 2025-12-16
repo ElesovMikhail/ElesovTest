@@ -494,4 +494,6 @@ class HotelManagementApp:
 
         self.tab_control.pack(expand=1, fill="both")
 ```
-![Текст описания](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui1.png)
+![Рисунок 1. Главное окно. Вкладка "Бронирования"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui1.png)
+![Рисунок 2. Главное окно. Вкладка "Клиенты"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui2.png)
+![Рисунок 3. Главное окно. Вкладка "Номера"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui3.png)
