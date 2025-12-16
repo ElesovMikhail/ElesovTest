@@ -494,9 +494,23 @@ class HotelManagementApp:
 
         self.tab_control.pack(expand=1, fill="both")
 ```
-![Рисунок 1. Главное окно. Вкладка "Бронирования"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui1.png)
-Рисунок 1. Главное окно. Вкладка "Бронирования"
-![Рисунок 2. Главное окно. Вкладка "Клиенты"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui2.png)
-Рисунок 2. Главное окно. Вкладка "Клиенты"
-![Рисунок 3. Главное окно. Вкладка "Номера"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui3.png)
-Рисунок 3. Главное окно. Вкладка "Номера"
+![Рисунок 1. Главное окно. Вкладка "Бронирования"](https://github.com/ElesovMikhail/ElesovTest/blob/main/связи.png)
+Рисунок 1. Концептуальная модель
+![Рисунок 2. Главное окно. Вкладка "Клиенты"](https://github.com/ElesovMikhail/ElesovTest/blob/main/логика.png)
+Рисунок 2. Логическая модель
+![Рисунок 3. Главное окно. Вкладка "Бронирования"](https://github.com/ElesovMikhail/ElesovTest/blob/main/прил.png)
+Рисунок 3. Главное окно. Вкладка "Бронирования"
+![Рисунок 4. Главное окно. Вкладка "Бронирования"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui1.png)
+Рисунок 4. Главное окно. Вкладка "Бронирования"
+![Рисунок 5. Главное окно. Вкладка "Клиенты"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui2.png)
+Рисунок 5. Главное окно. Вкладка "Клиенты"
+![Рисунок 6. Главное окно. Вкладка "Номера"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui3.png)
+Рисунок 6. Главное окно. Вкладка "Номера"
+![Рисунок 7. Главное окно. Вкладка "Уборка"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui4.png)
+Рисунок 7. Главное окно. Вкладка "Уборка"
+![Рисунок 8. Главное окно. Вкладка "Номера"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui5.png)
+Рисунок 8. Главное окно. Вкладка "Номера"
+![Рисунок 9. Главное окно. Вкладка "Уборка"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui6.png)
+Рисунок 9. Главное окно. Вкладка "Уборка"
+![Рисунок 10. Главное окно. Пример диалогового окна](https://github.com/ElesovMikhail/ElesovTest/blob/main/диалоговое окно.png)
+Рисунок 10. Главное окно. Пример диалогового окна
