@@ -494,4 +494,4 @@ class HotelManagementApp:
 
         self.tab_control.pack(expand=1, fill="both")
 ```
-![Текст описания]([https://www.example.com/image.jpg](https://github.com/ait-ester/subd-kursach-414/blob/main/Elesov/im/gui1.png))
+![Текст описания](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui1.png)
