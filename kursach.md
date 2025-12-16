@@ -418,12 +418,12 @@ pg_dump -t schedule_of_cleaning_rooms elesov > /tmp/ schedule_of_cleaning_rooms 
 
 # <p align="center">**Список литературы**  
 
-    1. PostgreSQL: Documentation: 18 – https://www.postgresql.org/docs/current/  
-    2. Руководство по работе с базами данных PostgreSQL – https://metanit.com/sql/postgresql/?ysclid=mj5wn2eii2901306410
-    3. tkinter — Python interface to Tcl/Tk — Python 3.14.2 documentation – https://docs.python.org/3/library/tkinter.html
-    4. Руководство по программированию на Tkinter и Python – https://metanit.com/python/tkinter/?ysclid=mj5wsjm2gu718044868
-    5. psycopg2 · PyPI – https://pypi.org/project/psycopg2/
-    6. Python и базы данных | Модуль psycopg. Подключение к серверу PostgreSQL – https://metanit.com/python/database/2.1.php?ysclid=mj5wuhzuvv34999340
+1. PostgreSQL: Documentation: 18 – https://www.postgresql.org/docs/current/  
+2. Руководство по работе с базами данных PostgreSQL – https://metanit.com/sql/postgresql/?ysclid=mj5wn2eii2901306410
+3. tkinter — Python interface to Tcl/Tk — Python 3.14.2 documentation – https://docs.python.org/3/library/tkinter.html
+4. Руководство по программированию на Tkinter и Python – https://metanit.com/python/tkinter/?ysclid=mj5wsjm2gu718044868
+5. psycopg2 · PyPI – https://pypi.org/project/psycopg2/
+6. Python и базы данных | Модуль psycopg. Подключение к серверу PostgreSQL – https://metanit.com/python/database/2.1.php?ysclid=mj5wuhzuvv34999340
     
 # <p align="center">**Приложение**
 
@@ -495,5 +495,8 @@ class HotelManagementApp:
         self.tab_control.pack(expand=1, fill="both")
 ```
 ![Рисунок 1. Главное окно. Вкладка "Бронирования"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui1.png)
+Рисунок 1. Главное окно. Вкладка "Бронирования"
 ![Рисунок 2. Главное окно. Вкладка "Клиенты"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui2.png)
+Рисунок 2. Главное окно. Вкладка "Клиенты"
 ![Рисунок 3. Главное окно. Вкладка "Номера"](https://github.com/ElesovMikhail/ElesovTest/blob/main/gui3.png)
+Рисунок 3. Главное окно. Вкладка "Номера"
